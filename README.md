@@ -19,3 +19,8 @@ hugo server -D
 # or
 hugo server --buildDrafts
 ```
+
+To create new content, use the `hugo new content` command:  
+```sh
+hugo new content posts/my-second-post.md
+```
