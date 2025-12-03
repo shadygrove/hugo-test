@@ -23,4 +23,7 @@ hugo server --buildDrafts
 To create new content, use the `hugo new content` command:  
 ```sh
 hugo new content posts/my-second-post.md
+
+# or specify an archetype/kind (see archetypes/ folder)
+hugo new content --kind posts post/my-post.md
 ```
