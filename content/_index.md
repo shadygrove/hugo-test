@@ -8,6 +8,6 @@ draft = false
 
 This should be the home page for the site.
 
-Welcom to my exploration of Hugo static site generation.  Ultimately, I'd like to have a site that allows me to expand with a handful of areas accessible from a main menu.
+Welcome to my exploration of Hugo static site generation.  Ultimately, I'd like to have a site that allows me to expand with a handful of areas accessible from a main menu.
 
 So far, Hugo is SUPER FAST so that is pretty sweet!
