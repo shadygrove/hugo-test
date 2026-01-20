@@ -1,17 +1,17 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = "Martin's First Hugo Site"
-# theme = 'default'
-sectionPagesMenu = 'main'
+# baseURL = 'https://example.org/'
+# languageCode = 'en-us'
+# title = "Martin's First Hugo Site"
+# # theme = 'github.com/theNewDynamic/gohugo-theme-ananke/v2'
+# sectionPagesMenu = 'main'
 
-[caches]
-  [caches.images]
-    dir = ':cacheDir/images'
+# [caches]
+#   [caches.images]
+#     dir = ':cacheDir/images'
 
-[module]
-[[module.imports]]
-disable = false
-ignoreConfig = false
-ignoreImports = false
-path = 'github.com/theNewDynamic/gohugo-theme-ananke/v2'
+# [module]
+# [[module.imports]]
+# disable = false
+# ignoreConfig = false
+# ignoreImports = false
+# path = 'github.com/theNewDynamic/gohugo-theme-ananke/v2'
 

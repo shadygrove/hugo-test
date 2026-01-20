@@ -26,4 +26,7 @@ hugo new content posts/my-second-post.md
 
 # or specify an archetype/kind (see archetypes/ folder)
 hugo new content --kind posts post/my-post.md
+
+# Create a new Article
+hugo new content --kind articles article/creating-content.md
 ```

@@ -1,0 +1,26 @@
+# [params]
+featured_image_class="cover bg-bottom"
+text_color = ""
+author = ""
+favicon = ""
+site_logo = ""
+description = "The last theme you'll ever need. Maybe."
+# choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+background_color_class = "bg-black"
+cover_dimming_class="bg-black-70"
+recent_posts_number = 3
+
+[ananke.social.follow]
+new_window_icon = false
+networks = [
+  "facebook",
+  "instagram"
+]
+
+[ananke.social.facebook]
+label="Facebook"
+username="flyinoaks"
+
+[ananke.social.instagram]
+label="Instagram"
+username="flyinoaks"
