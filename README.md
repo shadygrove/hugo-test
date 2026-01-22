@@ -45,3 +45,5 @@ Features to consider:
 * OpenGraph meta tag support
 * Blog support: posts, categories, tags, RSS feed  
 
+If you want to pay for a theme there is [BestHugoThemes.com/](https://www.besthugothemes.com/)
+

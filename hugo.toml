@@ -4,6 +4,9 @@
 # # theme = 'github.com/theNewDynamic/gohugo-theme-ananke/v2'
 # sectionPagesMenu = 'main'
 
+theme = ["github.com/theNewDynamic/gohugo-theme-ananke/v2"]
+# theme = ["mainroad"]
+
 # [caches]
 #   [caches.images]
 #     dir = ':cacheDir/images'
