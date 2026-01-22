@@ -30,3 +30,17 @@ hugo new content --kind posts post/my-post.md
 # Create a new Article
 hugo new content --kind articles article/creating-content.md
 ```
+
+### Hugo Themes
+
+Themes for consideration:  
+* [Mainroad](https://themes.gohugo.io/themes/mainroad/) - simple, clean   
+* [LoveIt](https://github.com/dillonzq/LoveIt) - elegant but advanced theme with many features
+* [BeautifulHugo](https://github.com/halogenica/beautifulhugo) - mobile menu, clean layouts
+* [Jane](https://github.com/xianmin/hugo-theme-jane) - decent structure and feature support, mobile menu, social links  
+
+Features to consider:
+* Flexible layout for Mobile
+* OpenGraph meta tag support
+* Blog support: posts, categories, tags, RSS feed  
+

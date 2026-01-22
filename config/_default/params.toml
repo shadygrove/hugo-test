@@ -27,3 +27,11 @@ username="flyinoaks"
 [ananke.social.instagram]
 label="Instagram"
 username="flyinoaks"
+
+#
+# Theme: mainroad
+#
+# [logo]
+#   image = "images/logo-2.png"
+#   title = "Flying Oak Music"
+#   subtitle = "Record label"
