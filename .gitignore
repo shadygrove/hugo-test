@@ -34,3 +34,4 @@ go.work.sum
 
 # Hugo 
 public
+node_modules

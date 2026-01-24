@@ -40,6 +40,9 @@ Themes for consideration:
 * [Jane](https://github.com/xianmin/hugo-theme-jane) - decent structure and feature support, mobile menu, social links  
 * [Universal](https://github.com/devcows/hugo-universal-theme) - robust feature set and capabilities
 * [Hextra](https://themes.gohugo.io/themes/hextra/) looks nice; likes social media sharing
+* [Hugo-Theme-Bootstrap](https://github.com/razonyang/hugo-theme-bootstrap) 
+  - Full-feature Bootstrap for Hugo  
+  - Nice breadcrumbs
 
 Features to consider:
 * Flexible layout for Mobile
