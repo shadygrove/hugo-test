@@ -35,13 +35,13 @@ hugo new content --kind articles article/creating-content.md
 
 Themes for consideration:  
 * [Mainroad](https://themes.gohugo.io/themes/mainroad/) - simple, clean   
-* [LoveIt](https://github.com/dillonzq/LoveIt) - elegant but advanced theme with many features
+* [LoveIt](https://github.com/dillonzq/LoveIt) - elegant but advanced theme with many features including vast social medio link options
 * [BeautifulHugo](https://github.com/halogenica/beautifulhugo) - mobile menu, clean layouts
 * [Jane](https://github.com/xianmin/hugo-theme-jane) - decent structure and feature support, mobile menu, social links  
 * [Universal](https://github.com/devcows/hugo-universal-theme) - robust feature set and capabilities
+* [Hextra](https://themes.gohugo.io/themes/hextra/) looks nice; likes social media sharing
 
 Features to consider:
-* [Hextra](https://themes.gohugo.io/themes/hextra/) looks nice
 * Flexible layout for Mobile
 * OpenGraph meta tag support
 * Blog support: posts, categories, tags, RSS feed  
