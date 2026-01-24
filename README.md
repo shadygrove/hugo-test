@@ -41,6 +41,7 @@ Themes for consideration:
 * [Universal](https://github.com/devcows/hugo-universal-theme) - robust feature set and capabilities
 
 Features to consider:
+* [Hextra](https://themes.gohugo.io/themes/hextra/) looks nice
 * Flexible layout for Mobile
 * OpenGraph meta tag support
 * Blog support: posts, categories, tags, RSS feed  
