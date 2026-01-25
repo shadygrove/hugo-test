@@ -1,0 +1,8 @@
+{{ define "content" }}
+<h2>List Content</h2>
+<p>Sidbar enabled: {{ if default true .Params.sidebar }}col-xxl-8{{ else }}col-xxl-12{{ end }}</p>
+<div class="{{ if default true .Params.Sidebar }}col-xxl-8{{ else }}col-xxl-12{{ end }}">
+  {{ partial "list" . }}
+</div>
+{{- partial "sidebar" . -}}
+{{ end }}

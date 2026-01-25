@@ -4,7 +4,7 @@ title: More Image Processing Methods
 date: 2022-07-08T11:34:47+08:00
 featured: true
 draft: false
-comment: true
+comment: false
 toc: true
 reward: true
 pinned: false

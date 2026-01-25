@@ -15723,15 +15723,6 @@ main {
   scrollbar-color: var(--hbs-primary) rgba(0, 0, 0, 0);
 }
 
-@media (min-width: 992px) {
-  .sidebar {
-    height: calc(100vh - 84px);
-    overflow: auto;
-    position: sticky;
-    top: 84px;
-  }
-}
-
 main.has-sidebar.sidebar-none .sidebar {
   display: none !important;
 }

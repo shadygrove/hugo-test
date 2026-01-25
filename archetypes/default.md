@@ -4,7 +4,7 @@ title: {{ replace .Name "-" " " | title }}
 date: {{ .Date }}
 featured: false
 draft: true
-comment: true
+comment: false
 toc: true
 reward: true
 pinned: false
@@ -13,6 +13,7 @@ series:
 categories: []
 tags: []
 images: []
+sidebar: false
 ---
 
 Summary.
