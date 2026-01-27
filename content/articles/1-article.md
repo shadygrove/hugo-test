@@ -1,6 +1,6 @@
 +++
 date = '2025-12-03T00:24:09-05:00'
-draft = true
+draft = false
 title = 'First Article'
 summary = 'An experimental page created for testing Go Hugo'
 description = 'Always try before you buy.  Thats what dad always said.'

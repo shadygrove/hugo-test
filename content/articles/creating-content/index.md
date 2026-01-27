@@ -1,6 +1,6 @@
 +++
 date = '2026-01-19T15:16:06-05:00'
-draft = true
+draft = false
 title = 'Creating Content'
 carousel = true
 # description="Learn how to create content... maybe"
