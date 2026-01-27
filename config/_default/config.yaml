@@ -23,10 +23,12 @@ taxonomies:
   series: series
   tag: tags
   authors: authors
+  # artist: artists
 
 build:
   writeStats: true
 
+permalinkable: true
 permalinks:
   news: /news/:year/:month/:title/
   blog: /blog/:year/:month/:title/

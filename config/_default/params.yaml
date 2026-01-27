@@ -5,6 +5,7 @@ mainSections:
   - posts
   - news
   - articles
+  - artists
 
 # titleSeparator: '|' # Title separator. Default to -.
 
@@ -20,9 +21,9 @@ keywords: Hugo, Bootstrap, Blog Theme
 # logo: false # Disable Logo
 brand: HBS
 
-palette: pink # Default palette. Optional. You'll need to clear the browser cache after modifying this.
+palette: blue-gray # Default palette. Optional. You'll need to clear the browser cache after modifying this.
 # Available palettes. Default to ALL. Empty array means disable.
-# palettes:
+palettes: ['blue', 'blue-gray', 'cyan', 'brown']
 #  - blue
 #  - blue-gray
 #  - brown
@@ -53,7 +54,7 @@ googleAdsense:
 # breadcrumbDivider: > # Breadcrumb divider
 # diagram: true
 # socialShare: false # disable social network sharing
-# searchBar: false # disable search-bar
+searchBar: false # disable search-bar
 
 poweredBy: false # Whether to show powered by.
 
@@ -86,12 +87,12 @@ titleCase: true # Capitalized title.
 viewer: true # Image Viewer
 
 # backgroundImage: ['/images/bg-light.png', '/images/bg-dark.png']
-# rss: home # link the RSS button to homepage all the times.
+rss: home # link the RSS button to homepage all the times.
 
 sidebar:
   fixed: false
   archives: false # Enable archives widget
-  taxonomiesToggle: false # Disable taxonomy toggle
+  taxonomiesToggle: true # Disable taxonomy toggle
   categories: false # Enable categories widget
   # tags: true # Enable tags widget
   series: false # Enable series widget
